@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCardViewStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_custom_corners</item>
+    </style>
+    <style name="CustomCardViewStyleSignUp" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_custom_corners_signup</item>
+    </style>
+    <style name="CustomCardViewStyleSettings" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_custom_corners_settings</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay_card_custom_corners_settings">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">20dp</item>
+        <item name="cornerSizeTopLeft">20dp</item>
+        <item name="cornerSizeBottomRight">20dp</item>
+        <item name="cornerSizeBottomLeft">20dp</item>
+    </style>
+    <style name="ShapeAppearanceOverlay_card_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">60dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomRight">8dp</item>
+        <item name="cornerSizeBottomLeft">8dp</item>
+    </style>
+    <style name="ShapeAppearanceOverlay_card_custom_corners_signup" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">60dp</item>
+    </style>
+    <style name="text_fields" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item name="boxStrokeColor">@color/card_background_color</item>
+        <item name="endIconTint">@color/card_background_color</item>
+        <item name="hintTextColor">@color/card_background_color</item>
+        <item name="errorTextColor">@color/orange</item>
+        <item name="android:textColorHint">@color/card_background_color</item>
+        <item name="errorIconTint">@color/orange</item>
+        <item name="boxStrokeErrorColor">@color/orange</item>
+    </style>
+    <style name="text_fields2">
+        <item name="android:textColor">@color/card_background_color</item>
+    </style>
+    <style name="checkbox">
+        <item name="android:buttonTint">@color/card_background_color</item>
+        <item name="android:foregroundTint">@color/card_background_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/card_background_color</item>
+    </style>
+
+</resources>
