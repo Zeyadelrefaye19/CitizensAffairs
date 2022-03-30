@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Citizens</string>
+        <string name="welcome">Hello!\nWelcome Back.</string>
+        <string name="login_message">Log in with your data that you entered\n during your registration</string>
+        <string name="sign_up">Sign Up</string>
+        <string name="sign_in">Sign In</string>
+        <string name="forget_password">Forget password?</string>
+        <string name="terms_and_conditions">I agree to the terms and conditions</string>
+        <string name="arabic">Arabic</string>
+        <string name="english">English</string>
+        <string name="create_account">Create Account</string>
+        <string name="create_account_sign_up">Create\nAccount.</string>
+        <string name="first_name">First Name</string>
+        <string name="last_name">Last Name</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="confirm_password">Confirm Password</string>
+        <string name="id">National Identity</string>
+        <string name="already_have_an_account">Already have an account?</string>
+        <string name="welcome_back">Welcome\nBack!</string>
+        <string name="enjoy_our_services">enjoy our services.</string>
+        <string name="remember_me">Remember me</string>
+        <string name="service_1">Issuance of a national identity card</string>
+        <string name="service_2">Issuance of passport</string>
+        <string name="service_3">Renew of a passport</string>
+        <string name="service_4">Issuance of ration card</string>
+        <string name="service_5">Renewing a passport</string>
+        <string name="service_6">Issuance of divorce document</string>
+        <string name="service_7">Issuance of death certificate</string>
+        <string name="title_activity_services2">ServicesActivity2</string>
+        <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+        <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+        <string name="nav_header_title" translatable="false">Android Studio</string>
+        <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+        <string name="nav_header_desc" translatable="false">Navigation header</string>
+        <string name="action_settings">Settings</string>
+        <string name="menu_home" translatable="false">Home</string>
+        <string name="menu_gallery" translatable="false">Gallery</string>
+        <string name="menu_slideshow" translatable="false">Slideshow</string>
+        <string name="open" translatable="false">Open</string>
+        <string name="close" translatable="false">Close</string>
+        <string name="edit_profile">Edit Profile</string>
+        <string name="dark_mode">Dark Mode</string>
+        <string name="language">Language</string>
+        <string name="preferences" translatable="false">Preferences</string>
+        <string name="logout">Log out</string>
+        <string name="account_already_exist">User already exist ,please sign up</string>
+        <string name="successfully_signed_up">your registration done successfully!\nplease sign in</string>
+        <string name="user_does_not_exist_please_sign_up">User does not exist, please sign up.</string>
+        <string name="password_does_not_match">Password does not match.</string>
+        <string name="try_again_later">Please try again later</string>
+        <string name="this_field_is_required">This field is required</string>
+        <string name="do_you_want_to_stop_creating_your_account">Are you sure you want to stop creating your account?</string>
+        <string name="if_you_stop_now_you_will_lose_any_progress_you_have_made">If you stop now, you will lose any progress you have made.</string>
+        <string name="continue_creating_your_account">Continue creating your account</string>
+        <string name="stop_creating_your_account">Stop creating your account</string>
+        <string name="this_is_not_a_valid_email">This is not a valid email.</string>
+        <string name="must_contain_14_numbers">Must contain 14 numbers.</string>
+        <string name="must_contain_at_least_1_upper_case_character">Must contain at least 1 uppercase character."</string>
+        <string name="must_be_at_least_10_characters_long">Must be at least 10 characters long.</string>
+        <string name="must_contain_at_least_a_number">Must contain at least a number.</string>
+        <string name="do_you_want_to_stop_accessing_your_account">Are you sure you want to stop accessing your account</string>
+        <string name="continue_accessing_your_account">Continue accessing your account</string>
+        <string name="stop_accessing_your_account">Stopping accessing your account</string>
+        <string name="save_changes">Save changes to your account</string>
+        <string name="are_you_sure_you_want_this_service">Are you sure you want this service?</string>
+        <string name="yes_i_am_sure">Yes, I am sure</string>
+        <string name="no">No</string>
+        <string name="your_request_has_been_submitted">Your request has been submitted</string>
+        <string name="your_request_cannot_be_done">Your request cannot be done</string>
+        <string name="settings">Settings</string>
+        <string name="my_request">My request</string>
+        <string name="authentication">Authentication</string>
+</resources>
