@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/settings"
+            android:icon="@drawable/settings"
+            android:id="@+id/settings_item" />
+        <item
+            android:title="@string/my_request"
+            android:icon="@drawable/my_requests"
+            android:id="@+id/my_request_item" />
+    </group>
+    <group android:checkableBehavior="single" >
+        <item android:title="@string/authentication">
+            <menu>
+                <group>
+                    <item
+                        android:title="@string/logout"
+                        android:icon="@drawable/log_out"
+                        android:id="@+id/logout_item" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>
